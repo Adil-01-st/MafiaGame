@@ -93,20 +93,29 @@ To preview the production build locally, use:
   <div align="center">
 <img src="/Img/1.jpg" width="800" height="450" alt="">
 </div>
-<div align="center">
-<img src="2.jpg" width="400" height="250" alt="">
+ <div align="center">
+<img src="/Img/2.jpg" width="800" height="450" alt="">
 </div>
-<div align="center">
-<img src="3.jpg" width="300" height="250" alt="">
+ <div align="center">
+<img src="/Img/3.jpg" width="800" height="450" alt="">
 </div>
-<div align="center">
-<img src="4.jpg" width="300" height="250" alt="">
+ <div align="center">
+<img src="/Img/4.jpg" width="800" height="450" alt="">
 </div>
-<div align="center">
-<img src="5.png" width="300" height="250" alt="">
+ <div align="center">
+<img src="/Img/5.jpg" width="800" height="450" alt="">
 </div>
-<div align="center">
-<img src="6.jpg" width="300" height="250" alt="">
+ <div align="center">
+<img src="/Img/6.jpg" width="800" height="450" alt="">
+</div>
+ <div align="center">
+<img src="/Img/7.jpg" width="800" height="450" alt="">
+</div>
+ <div align="center">
+<img src="/Img/8.jpg" width="800" height="450" alt="">
+</div>
+ <div align="center">
+<img src="/Img/9.jpg" width="800" height="450" alt="">
 </div>
 
 
