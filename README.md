@@ -91,7 +91,7 @@ To preview the production build locally, use:
   ```
 
   <div align="center">
-<img src="img/1.jpg" width="400" height="250" alt="">
+<img src="/Img/1.jpg" width="400" height="250" alt="">
 </div>
 <div align="center">
 <img src="2.jpg" width="400" height="250" alt="">
