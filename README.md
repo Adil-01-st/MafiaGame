@@ -1,3 +1,9 @@
+##This project was built as a learning experiment.
+The architecture is not optimal.
+Refactoring version is in progress.
+
+
+
 # React Vite Game - Setup and Run Instructions
 
 This project is a game built with React and Vite. Follow the steps below to set up and run the game on your local machine.
