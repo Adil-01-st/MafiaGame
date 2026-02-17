@@ -1,4 +1,4 @@
-##This project was built as a learning experiment.
+This project was built as a learning experiment.
 The architecture is not optimal.
 Refactoring version is in progress.
 
